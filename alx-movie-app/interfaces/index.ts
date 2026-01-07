@@ -34,3 +34,8 @@ export interface MoviesProps {
   titleText: TitleText;
   releaseYear: ReleaseYear;
 }
+
+export interface ImageProps {
+  imageUrl?: string;
+  prompt?: string;
+}
