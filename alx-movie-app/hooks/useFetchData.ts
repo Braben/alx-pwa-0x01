@@ -1,4 +1,4 @@
-import { ImageProps } from "@/interfaces";
+// import { ImageProps } from "@/interfaces";
 import { useState } from "react";
 
 const useFetchData = <T, R>() => {
